@@ -1,4 +1,4 @@
-# nado_c
+# nado_c_roop
 #includ <stdio.h>
 
 int main_rooop(void)
